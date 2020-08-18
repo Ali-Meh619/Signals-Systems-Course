@@ -10,7 +10,7 @@ This is the repository for my solutions to Signals and Systems course's coumpute
 
 
 **First Final project:** 
-- Introduction to EEG Signlas, Data Preprocessing and Implementing Learning Algorithm to Classify Specific Actions
+- Introduction to EEG Signals, Data Preprocessing and Implementing Learning Algorithm to Classify Specific Actions
 
 
 **Second Final project:** 
