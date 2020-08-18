@@ -8,13 +8,13 @@ This is the repository for my solutions to Signals and Systems course's coumpute
 
 **Computer Assignment 3:** Image Processing and Denoising, Implementation of Edge Detection Algorithms and Hough Transform
 
+
 **First Final project:** 
+- Introduction to EEG Signlas, Data Preprocessing and Implementing Learning Algorithm to Classify Specific Actions
 
-Introduction to EEG Signlas, Data Preprocessing and Implementing Learning Algorithm to Classify Specific Actions
 
-**Second Final project:**
-
-Implementation of Ford-Falkerson and K-Means Algorithms for Image Segmentation
+**Second Final project:** 
+- Implementation of Ford-Falkerson and K-Means Algorithms for Image Segmentation
 
 
 
